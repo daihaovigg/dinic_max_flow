@@ -1,7 +1,7 @@
 # Dinic's Maximum network flow algorithm
 Dinic’s algorithm is a polynomial algorithm for computing the maximum network flow in a
-network. It is similar to Edmond-Karp’s algorithm which run in O(nm^2) time and runs in
-O(n^2m).
+network. It is similar to Edmond-Karp’s algorithm which run in O(nm<sup>2</sub>) time and runs in
+O(n<sup>2</sub>m).
 
 
 Input graph has to be in DIMACS graph format
