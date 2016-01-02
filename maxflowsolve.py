@@ -6,7 +6,6 @@ from util import helper
 import time
 '''
 	@Author: Emmanuel John (emmanuj)
-	With help from Chih-Hsuan Kuo slides on Dinic's algorithm
 '''
 
 #read arguments
